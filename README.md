@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">ChatGPT Auth Assistant</h1>
+<h1 align="center">ikuai IP 重播</h1>
 
 "An ikuia IP replay script running with 🐉"
 
